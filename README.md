@@ -1,5 +1,5 @@
 ---
-description: This template creates an Azure storage account and file share.
+description: This template creates an Azure storage accoun
 page_type: sample
 products:
 - azure
@@ -9,7 +9,7 @@ languages:
 - bicep
 - json
 ---
-# Create a storage account with file share
+# Create a storage account 
 
 ![Azure Public Test Date](https://azurequickstartsservice.blob.core.windows.net/badges/quickstarts/microsoft.storage/storage-file-share/PublicLastTestDate.svg)
 ![Azure Public Test Result](https://azurequickstartsservice.blob.core.windows.net/badges/quickstarts/microsoft.storage/storage-file-share/PublicDeployment.svg)
